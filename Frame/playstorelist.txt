@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "appname": "",
+      "appicon": "",
+      "appurl": ""
+    }
+  ]
+}
