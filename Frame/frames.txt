@@ -120,7 +120,7 @@
 
     "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/73.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/74.png"
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/74.PNG"
 	  
 	  
 	  ],
