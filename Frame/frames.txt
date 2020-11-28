@@ -158,7 +158,7 @@
 
     "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/20.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/21.png",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/21.PNG",
 
     "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/22.png",
 
@@ -166,34 +166,34 @@
 
       "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/24.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/25.png",
+    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/25.PNG",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/26.png",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/26.PNG",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/27.png",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/27.PNG",
 
-    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/28.png",
+    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/28.PNG",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/29.png",
-	  "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/30.png",
-    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/31.png",
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/32.png",
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/33.png",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/29.PNG",
+	  "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/30.PNG",
+    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/31.PNG",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/32.PNG",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/33.PNG",
 
-    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/34.png",
+    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/34.PNG",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/35.png",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/35.PNG",
 
 
     "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/36.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/37.png",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/37.PNG",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/38.png",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/38.PNG",
 
-    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/39.png",
+    "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/39.PNG",
 
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/40.png"
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/40.PNG"
        
     
     ]
