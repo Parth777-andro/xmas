@@ -177,7 +177,7 @@
       "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/29.PNG",
 	  "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/30.PNG",
     "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/31.PNG",
-      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/32.PNG",
+      "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/32.png",
       "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/33.PNG",
 
     "https://raw.githubusercontent.com/Parth777-andro/xmas/main/Pic/l/34.PNG",
